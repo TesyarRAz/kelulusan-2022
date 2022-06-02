@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css">
 </head>
 <body>
-    <div class="container my-3">
+    <div class="container-fluid my-3">
         <div class="text-center">
             <h4 class="font-weight-bold">DAFTAR KELULUSAN PESERTA DIDIK KELAS XII</h4>
             <h4 class="font-weight-bold">TAHUN PELAJARAN 2021/2022</h4>
@@ -62,30 +62,28 @@
 					{ data: 'nis' },
                     { data: 'nisn' },
                     { data: 'tempat_tanggal_lahir' },
-                    { data: 'keterangan', render: (data) => {
-                        if (data == 'LULUS')
-                            return `<span class="badge badge-success">${data}</span>`
-                        else
-                            return `<span class="badge badge-danger">${data}</span>`
-                    } },
+                    { data: 'keterangan', render: (data, type, row) => `<button class="btn btn-primary" onclick="check('${row.nama}', '${data}')">Cek</button>` },
 				]
             })
 
-            $('#table').on('click', 'tbody tr', function() {
-                var row = table.row($(this)).data();
-
-                if (row.keterangan == 'LULUS')
+            window.check = function(nama, keterangan) {
+                if (keterangan == 'LULUS')
                     Swal.fire({
                         imageUrl: 'party-popper.png',
                         imageHeight: 100,
                         imageWidth: 100,
                         title: 'Selamat!',
-                        text: `${row.nama} Lulus!`,
+                        text: `${nama} Lulus!`,
                         showConfirmButton: false,
                     })
                 else
-                    Swal.fire('TIDAK LULUS', '', 'error')
-            })
+                    Swal.fire({
+                        title: 'Mohon maaf',
+                        icon: 'danger',
+                        text: `${nama} Tidak Lulus!`,
+                        showConfirmButton: false,
+                    })
+            }
         })
     </script>
 </body>
