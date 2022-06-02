@@ -1,0 +1,3332 @@
+{
+  "data": [
+    {
+      "nama": "Agung Saepul Hidayat",
+      "gender": "L",
+      "nis": 11907936,
+      "nisn": 44437818,
+      "tempat_tanggal_lahir": "Sukabumi 16 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ajeng Putri Dinanti",
+      "gender": "P",
+      "nis": 11907937,
+      "nisn": 35092869,
+      "tempat_tanggal_lahir": "Sukabumi 31 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Akmal Nuur Fauzan",
+      "gender": "L",
+      "nis": 11907938,
+      "nisn": 37454579,
+      "tempat_tanggal_lahir": "Sukabumi 27 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Alifa Aulia Ramdani",
+      "gender": "P",
+      "nis": 11907939,
+      "nisn": 37109609,
+      "tempat_tanggal_lahir": "Sukabumi 19 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aria Fahreza",
+      "gender": "L",
+      "nis": 11908296,
+      "nisn": 44392574,
+      "tempat_tanggal_lahir": "Sukabumi 24 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ariel Syahrizal Madani",
+      "gender": "L",
+      "nis": 11907940,
+      "nisn": 43110071,
+      "tempat_tanggal_lahir": "Bandung 27 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Eva Ardini",
+      "gender": "P",
+      "nis": 11907942,
+      "nisn": 46790267,
+      "tempat_tanggal_lahir": "Sukabumi 16 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Gilang Galih Setya",
+      "gender": "L",
+      "nis": 11907943,
+      "nisn": 17333986,
+      "tempat_tanggal_lahir": "Sukabumi 17 November 2001",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Inayatul Kamilah",
+      "gender": "P",
+      "nis": 11907944,
+      "nisn": 48231721,
+      "tempat_tanggal_lahir": "Sukabumi 06 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Irhan Pratama Akrom Sumarna",
+      "gender": "L",
+      "nis": 11907945,
+      "nisn": 43366923,
+      "tempat_tanggal_lahir": "Sukabumi 04 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochamad Afdal Ibrahim",
+      "gender": "L",
+      "nis": 11907946,
+      "nisn": 46548482,
+      "tempat_tanggal_lahir": "Sukabumi 08 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Akmal Ramadhan",
+      "gender": "L",
+      "nis": 11907947,
+      "nisn": 36953741,
+      "tempat_tanggal_lahir": "Sukabumi 12 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Dava Wardana",
+      "gender": "L",
+      "nis": 11907948,
+      "nisn": 43270807,
+      "tempat_tanggal_lahir": "Sukabumi 17 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Rizki Akbar",
+      "gender": "L",
+      "nis": 11907949,
+      "nisn": 47903406,
+      "tempat_tanggal_lahir": "Sukabumi 10 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Ardan Firdaus",
+      "gender": "L",
+      "nis": 11907950,
+      "nisn": 49517055,
+      "tempat_tanggal_lahir": "Sukabumi 09 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Arrafi Muchaimin",
+      "gender": "L",
+      "nis": 11907951,
+      "nisn": 30085036,
+      "tempat_tanggal_lahir": "Sukabumi 23 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Nopaldi",
+      "gender": "L",
+      "nis": 11907953,
+      "nisn": 38374764,
+      "tempat_tanggal_lahir": "Sukabumi 25 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Rivazd",
+      "gender": "L",
+      "nis": 11907954,
+      "nisn": 40391443,
+      "tempat_tanggal_lahir": "Sukabumi 08 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mutiara Kartika Ayu",
+      "gender": "P",
+      "nis": 11907955,
+      "nisn": 37768387,
+      "tempat_tanggal_lahir": "Sukabumi 28 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Najla Ghaida Fauziyah",
+      "gender": "P",
+      "nis": 11907956,
+      "nisn": 74876441,
+      "tempat_tanggal_lahir": "Sukabumi 06 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Padlan Bahari",
+      "gender": "L",
+      "nis": 11907957,
+      "nisn": 34949440,
+      "tempat_tanggal_lahir": "Sukabumi 16 Maret 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Priadi Qudrat Pasti",
+      "gender": "L",
+      "nis": 11907958,
+      "nisn": 33249828,
+      "tempat_tanggal_lahir": "Pandeglang 31 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rafli Ananda Faturochim",
+      "gender": "L",
+      "nis": 11907959,
+      "nisn": 45026738,
+      "tempat_tanggal_lahir": "Sukabumi 14 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Raihan Aulia Rahman",
+      "gender": "L",
+      "nis": 11907960,
+      "nisn": 36700299,
+      "tempat_tanggal_lahir": "Sukabumi 25 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ramadan",
+      "gender": "L",
+      "nis": 11907961,
+      "nisn": 36975007,
+      "tempat_tanggal_lahir": "Sukabumi 22 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Randi",
+      "gender": "L",
+      "nis": 11907962,
+      "nisn": 3038597493,
+      "tempat_tanggal_lahir": "Sukabumi 03 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Risa Dwi Maretha",
+      "gender": "P",
+      "nis": 11907963,
+      "nisn": 41382487,
+      "tempat_tanggal_lahir": "Sukabumi 20 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rizky Purnama",
+      "gender": "L",
+      "nis": 11907964,
+      "nisn": 3035312735,
+      "tempat_tanggal_lahir": "Sukabumi 19 Maret 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Shahdan Maulana Yusuf",
+      "gender": "L",
+      "nis": 11907965,
+      "nisn": 46856748,
+      "tempat_tanggal_lahir": "Sukabumi 27 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Aisah",
+      "gender": "P",
+      "nis": 11907966,
+      "nisn": 34861804,
+      "tempat_tanggal_lahir": "Sukabumi 08 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Farda Sya'Bani",
+      "gender": "P",
+      "nis": 11907967,
+      "nisn": 44741971,
+      "tempat_tanggal_lahir": "Sukabumi 28 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sultan Samsul",
+      "gender": "L",
+      "nis": 11907968,
+      "nisn": 42391724,
+      "tempat_tanggal_lahir": "Sukabumi 20 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Surya Saputra",
+      "gender": "L",
+      "nis": 11907969,
+      "nisn": 46318390,
+      "tempat_tanggal_lahir": "Sukabumi 19 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Syahran Latief Firdaus",
+      "gender": "L",
+      "nis": 11907970,
+      "nisn": 35915140,
+      "tempat_tanggal_lahir": "Sukabumi 24 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Wira Harsa Abiyasa Rifki Ghani",
+      "gender": "L",
+      "nis": 11907971,
+      "nisn": 44166212,
+      "tempat_tanggal_lahir": "Sukabumi 06 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Adli Maulana",
+      "gender": "L",
+      "nis": 11907972,
+      "nisn": 46898942,
+      "tempat_tanggal_lahir": "Sukabumi 21 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ahdan Nizar Munadi",
+      "gender": "L",
+      "nis": 11907974,
+      "nisn": 30028112,
+      "tempat_tanggal_lahir": "Sukabumi 08 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Alfa Aulia",
+      "gender": "P",
+      "nis": 11907975,
+      "nisn": 30142591,
+      "tempat_tanggal_lahir": "Tegal 21 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amelia Putri Hernia",
+      "gender": "P",
+      "nis": 11907976,
+      "nisn": 37507318,
+      "tempat_tanggal_lahir": "Jakarta 19 Januari 2005",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Andi Suherlan",
+      "gender": "L",
+      "nis": 11907977,
+      "nisn": 25683904,
+      "tempat_tanggal_lahir": "Sukabumi 12 April 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Azhar Fauzan Arisandi",
+      "gender": "L",
+      "nis": 11907979,
+      "nisn": 30021498,
+      "tempat_tanggal_lahir": "Sukabumi 12 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Chantika Destiasari",
+      "gender": "P",
+      "nis": 11907980,
+      "nisn": 36622433,
+      "tempat_tanggal_lahir": "Jakarta 07 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dilfa Mahmood Suhaimi",
+      "gender": "L",
+      "nis": 11907981,
+      "nisn": 46778741,
+      "tempat_tanggal_lahir": "Sukabumi 20 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fatmah Khairunnisa",
+      "gender": "P",
+      "nis": 11907982,
+      "nisn": 38186749,
+      "tempat_tanggal_lahir": "Sukabumi 26 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fazhal",
+      "gender": "L",
+      "nis": 11907983,
+      "nisn": 42387866,
+      "tempat_tanggal_lahir": "Sukabumi 18 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Guntur Pratama Putra",
+      "gender": "L",
+      "nis": 11907984,
+      "nisn": 43536838,
+      "tempat_tanggal_lahir": "Sukabumi 05 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ira Yuliyanti",
+      "gender": "P",
+      "nis": 11907985,
+      "nisn": 41156324,
+      "tempat_tanggal_lahir": "Sukabumi 02 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Irgi Hambali",
+      "gender": "L",
+      "nis": 11907986,
+      "nisn": 38977754,
+      "tempat_tanggal_lahir": "Sukabumi 30 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Krisna Permana",
+      "gender": "L",
+      "nis": 11907987,
+      "nisn": 31118365,
+      "tempat_tanggal_lahir": "Bandung 07 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Lingga Dwiarzjumadi",
+      "gender": "L",
+      "nis": 11907988,
+      "nisn": 44515974,
+      "tempat_tanggal_lahir": "Sukabumi 04 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "M. Vikkry Fadillah",
+      "gender": "L",
+      "nis": 11907990,
+      "nisn": 36974994,
+      "tempat_tanggal_lahir": "Sukabumi 07 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochammad Rangga Agustian",
+      "gender": "L",
+      "nis": 11907989,
+      "nisn": 46105353,
+      "tempat_tanggal_lahir": "Sukabumi 18 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Rifki",
+      "gender": "L",
+      "nis": 11907991,
+      "nisn": 46712030,
+      "tempat_tanggal_lahir": "Sukabumi 20 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Rizky Febriansyah",
+      "gender": "L",
+      "nis": 11907992,
+      "nisn": 46856742,
+      "tempat_tanggal_lahir": "Bandung 30 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Avria Nanda Supriadi",
+      "gender": "L",
+      "nis": 11907994,
+      "nisn": 44392583,
+      "tempat_tanggal_lahir": "Sukabumi 11 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Hafidz Khoiry",
+      "gender": "L",
+      "nis": 11907995,
+      "nisn": 56886831,
+      "tempat_tanggal_lahir": "Sukabumi 25 Maret 2005",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Rifqy Agustian",
+      "gender": "L",
+      "nis": 11907996,
+      "nisn": 43511537,
+      "tempat_tanggal_lahir": "Sukabumi 17 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Rizki Alviansyah Suwandi",
+      "gender": "L",
+      "nis": 11907997,
+      "nisn": 30082804,
+      "tempat_tanggal_lahir": "Sukabumi 04 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Niken Oktaviani",
+      "gender": "P",
+      "nis": 11907998,
+      "nisn": 38374773,
+      "tempat_tanggal_lahir": "Sukabumi 28 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Putri Aulia Maulida",
+      "gender": "P",
+      "nis": 11907999,
+      "nisn": 47237134,
+      "tempat_tanggal_lahir": "Sukabumi 25 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rafli Ramadhan",
+      "gender": "L",
+      "nis": 11908000,
+      "nisn": 34969862,
+      "tempat_tanggal_lahir": "Sukabumi 13 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Revi Dwiyanto Wirataufan",
+      "gender": "L",
+      "nis": 11908001,
+      "nisn": 30161842,
+      "tempat_tanggal_lahir": "Sukabumi 30 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Salman Alfarizi",
+      "gender": "L",
+      "nis": 11908002,
+      "nisn": 47201629,
+      "tempat_tanggal_lahir": "Sukabumi 06 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sindi Sindiawati",
+      "gender": "P",
+      "nis": 11908003,
+      "nisn": 46778749,
+      "tempat_tanggal_lahir": "Sukabumi 06 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tirai Fitriyani",
+      "gender": "P",
+      "nis": 11908004,
+      "nisn": 43536865,
+      "tempat_tanggal_lahir": "Sukabumi 10 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Yayang Salwa Lutfilah",
+      "gender": "L",
+      "nis": 11908005,
+      "nisn": 38678590,
+      "tempat_tanggal_lahir": "Sukabumi 16 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Yuda Putra Perdana",
+      "gender": "L",
+      "nis": 11908006,
+      "nisn": 38931914,
+      "tempat_tanggal_lahir": "Ciamis 28 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Yuniar Putri Wardiasari",
+      "gender": "P",
+      "nis": 11908007,
+      "nisn": 38051594,
+      "tempat_tanggal_lahir": "Sukabumi 29 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Abdul Hasbi",
+      "gender": "L",
+      "nis": 11907864,
+      "nisn": 47074226,
+      "tempat_tanggal_lahir": "Sukabumi 16 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Adryan Ashiddiq",
+      "gender": "L",
+      "nis": 11907865,
+      "nisn": 48279641,
+      "tempat_tanggal_lahir": "Sukabumi 05 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Akbar Hasan Ibrahim",
+      "gender": "L",
+      "nis": 11907866,
+      "nisn": 34939342,
+      "tempat_tanggal_lahir": "Sukabumi 11 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Andina Renita Zahara",
+      "gender": "P",
+      "nis": 11907867,
+      "nisn": 56799062,
+      "tempat_tanggal_lahir": "Sukabumi 09 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Andrew Maulana",
+      "gender": "L",
+      "nis": 11907868,
+      "nisn": 47423033,
+      "tempat_tanggal_lahir": "Sukabumi 23 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Armansyah Maulana",
+      "gender": "L",
+      "nis": 11907869,
+      "nisn": 38660223,
+      "tempat_tanggal_lahir": "Sukabumi 27 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Cahya Syaepul Alam",
+      "gender": "L",
+      "nis": 11907870,
+      "nisn": 36138310,
+      "tempat_tanggal_lahir": "Sukabumi 15 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Candra Egi Saputra",
+      "gender": "L",
+      "nis": 11907871,
+      "nisn": 42679796,
+      "tempat_tanggal_lahir": "Sukabumi 21 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fani Nurlela",
+      "gender": "P",
+      "nis": 11907872,
+      "nisn": 30305504,
+      "tempat_tanggal_lahir": "Sukabumi 05 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fanny Ratna Suciati",
+      "gender": "P",
+      "nis": 11907873,
+      "nisn": 30103323,
+      "tempat_tanggal_lahir": "Sukabumi 27 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Farhan Delbert Maresjembun",
+      "gender": "L",
+      "nis": 11907874,
+      "nisn": 35092880,
+      "tempat_tanggal_lahir": "Sukabumi 06 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fazril Imam Maulana",
+      "gender": "L",
+      "nis": 11907875,
+      "nisn": 30020950,
+      "tempat_tanggal_lahir": "Sukabumi 28 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Febriyanti Maharani Dewi",
+      "gender": "P",
+      "nis": 11907876,
+      "nisn": 46717411,
+      "tempat_tanggal_lahir": "Sukabumi 19 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Firdaus Cahya Agustian",
+      "gender": "L",
+      "nis": 11907877,
+      "nisn": 36138316,
+      "tempat_tanggal_lahir": "Sukabumi 31 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Haryana",
+      "gender": "L",
+      "nis": 11907878,
+      "nisn": 24742338,
+      "tempat_tanggal_lahir": "Sukabumi 01 Juli 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hilmi Abdul Muhaimin",
+      "gender": "L",
+      "nis": 11907879,
+      "nisn": 48178632,
+      "tempat_tanggal_lahir": "Sukabumi 05 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Irfan Ramadan",
+      "gender": "L",
+      "nis": 11907880,
+      "nisn": 33789140,
+      "tempat_tanggal_lahir": "Sukabumi 05 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Lusi Agustin",
+      "gender": "P",
+      "nis": 11907882,
+      "nisn": 37878023,
+      "tempat_tanggal_lahir": "Sukabumi 14 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Moch Akmal Al-Razzi",
+      "gender": "L",
+      "nis": 11907883,
+      "nisn": 43009839,
+      "tempat_tanggal_lahir": "Sukabumi 14 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochammad Syahrul Almugni Yusup",
+      "gender": "L",
+      "nis": 11907884,
+      "nisn": 43551620,
+      "tempat_tanggal_lahir": "Sukabumi 19 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Jikril Aryanda",
+      "gender": "L",
+      "nis": 11907885,
+      "nisn": 30085030,
+      "tempat_tanggal_lahir": "Sukabumi 29 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Rifda Firdaus. S",
+      "gender": "L",
+      "nis": 11907886,
+      "nisn": 48858931,
+      "tempat_tanggal_lahir": "Sukabumi 11 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nafilah Nawir Afwa",
+      "gender": "L",
+      "nis": 11907887,
+      "nisn": 36138319,
+      "tempat_tanggal_lahir": "Sukabumi 30 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Naluri Insan Kamalia",
+      "gender": "P",
+      "nis": 11907888,
+      "nisn": 38158467,
+      "tempat_tanggal_lahir": "Sukabumi 25 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nandra Ramira Ar",
+      "gender": "P",
+      "nis": 11907889,
+      "nisn": 46676867,
+      "tempat_tanggal_lahir": "Sukabumi 05 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Neng Ripka",
+      "gender": "P",
+      "nis": 11907890,
+      "nisn": 45245860,
+      "tempat_tanggal_lahir": "Sukabumi 18 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Neng Vina Ananda",
+      "gender": "P",
+      "nis": 11907891,
+      "nisn": 44431024,
+      "tempat_tanggal_lahir": "Sukabuni 30 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rifky Maulana Putra",
+      "gender": "L",
+      "nis": 11907892,
+      "nisn": 41926699,
+      "tempat_tanggal_lahir": "Sukabumi 03 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Risdi Amelia",
+      "gender": "P",
+      "nis": 11907893,
+      "nisn": 43984997,
+      "tempat_tanggal_lahir": "Sukabumi 10 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rizki Rahmatullah",
+      "gender": "L",
+      "nis": 11907894,
+      "nisn": 45073989,
+      "tempat_tanggal_lahir": "Sukabumi 05 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rizky Nugraha Putra",
+      "gender": "L",
+      "nis": 11907895,
+      "nisn": 36905833,
+      "tempat_tanggal_lahir": "Sukabumi 22 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Mariam",
+      "gender": "P",
+      "nis": 11907896,
+      "nisn": 47087701,
+      "tempat_tanggal_lahir": "Sukabumi 05 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Nurlatipah",
+      "gender": "P",
+      "nis": 11907897,
+      "nisn": 38099054,
+      "tempat_tanggal_lahir": "Sukabumi 15 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Yasmina Putri Salsabila",
+      "gender": "P",
+      "nis": 11907898,
+      "nisn": 56351535,
+      "tempat_tanggal_lahir": "Sukabumi 23 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Zahra Putri Calisa",
+      "gender": "P",
+      "nis": 11907899,
+      "nisn": 41737754,
+      "tempat_tanggal_lahir": "Bogor 06 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Abdullah",
+      "gender": "L",
+      "nis": 11907900,
+      "nisn": 49089981,
+      "tempat_tanggal_lahir": "Sukabumi 03 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Adella Puspita",
+      "gender": "P",
+      "nis": 11907901,
+      "nisn": 46039306,
+      "tempat_tanggal_lahir": "Sukabumi 12 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Alisa Muti Sugianti",
+      "gender": "P",
+      "nis": 11907902,
+      "nisn": 41171931,
+      "tempat_tanggal_lahir": "Sukabumi 17 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amalia Nur Fauzianti",
+      "gender": "P",
+      "nis": 11907903,
+      "nisn": 34996932,
+      "tempat_tanggal_lahir": "Sukabumi 02 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Desti Indriani",
+      "gender": "P",
+      "nis": 11907904,
+      "nisn": 33486734,
+      "tempat_tanggal_lahir": "Sukabumi 20 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dewa Putra Pratama",
+      "gender": "L",
+      "nis": 11907905,
+      "nisn": 44376778,
+      "tempat_tanggal_lahir": "Sukabumi 08 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dimas Nur Ilham",
+      "gender": "L",
+      "nis": 11907906,
+      "nisn": 44497743,
+      "tempat_tanggal_lahir": "Tangerang 29 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "E. Clara Rabila Tsani Herdawan",
+      "gender": "P",
+      "nis": 11907907,
+      "nisn": 35527678,
+      "tempat_tanggal_lahir": "Sukabumi 09 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Erica Puspita Salamah",
+      "gender": "P",
+      "nis": 11907908,
+      "nisn": 48902694,
+      "tempat_tanggal_lahir": "Sukabumi 13 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Faris Muhamad Ramdan Abizar",
+      "gender": "L",
+      "nis": 11907909,
+      "nisn": 42679806,
+      "tempat_tanggal_lahir": "Sukabumi 11 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hafiz Arbi",
+      "gender": "L",
+      "nis": 11907910,
+      "nisn": 41256854,
+      "tempat_tanggal_lahir": "Padang 09 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hafizh Arsyi Alamsyah",
+      "gender": "L",
+      "nis": 11907911,
+      "nisn": 45011407,
+      "tempat_tanggal_lahir": "Bandung 23 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Haris Farida Abdul Nurwahid",
+      "gender": "L",
+      "nis": 11907912,
+      "nisn": 47172943,
+      "tempat_tanggal_lahir": "Sukabumi 14 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Moch Hapi Barkah",
+      "gender": "L",
+      "nis": 11907914,
+      "nisn": 44392561,
+      "tempat_tanggal_lahir": "Sukabumi 03 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochamad Iqbal Fadila",
+      "gender": "L",
+      "nis": 11907915,
+      "nisn": 38614197,
+      "tempat_tanggal_lahir": "Bogor 22 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochammad Fitra Ilyas Suhendra",
+      "gender": "L",
+      "nis": 11907916,
+      "nisn": 37715814,
+      "tempat_tanggal_lahir": "Sukabumi 29 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Moh. Ariel Firdaus Hasan",
+      "gender": "L",
+      "nis": 11907917,
+      "nisn": 45684147,
+      "tempat_tanggal_lahir": "Sukabumi 25 Januari 2005",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Alfathin Izharuddin",
+      "gender": "L",
+      "nis": 11907918,
+      "nisn": 43272975,
+      "tempat_tanggal_lahir": "Bandung 20 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Bhima Augusta",
+      "gender": "L",
+      "nis": 11907920,
+      "nisn": 46797620,
+      "tempat_tanggal_lahir": "Sukabumi 26 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Hafidz Fauzan",
+      "gender": "L",
+      "nis": 11907919,
+      "nisn": 43042399,
+      "tempat_tanggal_lahir": "Sukabumi 01 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Imran Khairul Ramadhan",
+      "gender": "L",
+      "nis": 11907921,
+      "nisn": 30120615,
+      "tempat_tanggal_lahir": "Sukabumi 04 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Jawahiruzzaman",
+      "gender": "L",
+      "nis": 11907922,
+      "nisn": 30126836,
+      "tempat_tanggal_lahir": "Sukabumi 20 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Reva Pratama Syamsudin",
+      "gender": "L",
+      "nis": 11907923,
+      "nisn": 44074096,
+      "tempat_tanggal_lahir": "Sukabumi 04 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nurul Oktaviani",
+      "gender": "P",
+      "nis": 11907924,
+      "nisn": 36497119,
+      "tempat_tanggal_lahir": "Sukabumi 02 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rachmatu Zabila Khaerunnissa",
+      "gender": "P",
+      "nis": 11907925,
+      "nisn": 46571465,
+      "tempat_tanggal_lahir": "Sukabumi 19 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rafi Peramudiva Ramadhan",
+      "gender": "L",
+      "nis": 11907926,
+      "nisn": 30021943,
+      "tempat_tanggal_lahir": "Sukabumi 26 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Raihan Rahadian Syach",
+      "gender": "L",
+      "nis": 11907927,
+      "nisn": 24379150,
+      "tempat_tanggal_lahir": "Sukabumi 12 Desember 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Razwa Sakha Pradipa",
+      "gender": "L",
+      "nis": 11907928,
+      "nisn": 40774465,
+      "tempat_tanggal_lahir": "Sukabumi 03 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Renaldi Pasya Darmansyah",
+      "gender": "L",
+      "nis": 11907929,
+      "nisn": 47518302,
+      "tempat_tanggal_lahir": "Bandung 15 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ryan Sahk Suhada",
+      "gender": "L",
+      "nis": 11908297,
+      "nisn": 28724058,
+      "tempat_tanggal_lahir": "Padang Panjang  11 Maret 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sabrina Auliya Andini",
+      "gender": "P",
+      "nis": 11907931,
+      "nisn": 46318420,
+      "tempat_tanggal_lahir": "Sukabumi 29 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Satria Sangga Buana",
+      "gender": "L",
+      "nis": 11907932,
+      "nisn": 46693936,
+      "tempat_tanggal_lahir": "Sukabumi 03 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Shunnia Nur Ainahaq",
+      "gender": "P",
+      "nis": 11907933,
+      "nisn": 49554062,
+      "tempat_tanggal_lahir": "Sukabumi 29 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tazkia Inti Sapara",
+      "gender": "P",
+      "nis": 11907934,
+      "nisn": 37245656,
+      "tempat_tanggal_lahir": "Sukabumi 12 Februari 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Zane Syakila",
+      "gender": "P",
+      "nis": 11907935,
+      "nisn": 35924956,
+      "tempat_tanggal_lahir": "Sukabumi 30 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Agni Bunga Firani",
+      "gender": "P",
+      "nis": 11908080,
+      "nisn": 42613442,
+      "tempat_tanggal_lahir": "Sukabumi 23 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Al Kahfi",
+      "gender": "L",
+      "nis": 11908081,
+      "nisn": 33002070,
+      "tempat_tanggal_lahir": "Sukabumi 15 September 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ananda Raisya Della",
+      "gender": "P",
+      "nis": 11908082,
+      "nisn": 44898658,
+      "tempat_tanggal_lahir": "Sukabumi 22 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aprilia Pratiwi",
+      "gender": "P",
+      "nis": 11908083,
+      "nisn": 37540057,
+      "tempat_tanggal_lahir": "Sukabumi 01 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ariane Widi Wardah",
+      "gender": "P",
+      "nis": 11908084,
+      "nisn": 30085047,
+      "tempat_tanggal_lahir": "Sukabumi 22 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aulia Fatimah",
+      "gender": "P",
+      "nis": 11908085,
+      "nisn": 30104877,
+      "tempat_tanggal_lahir": "Sukabumi 17 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ayu Sarah",
+      "gender": "P",
+      "nis": 11908086,
+      "nisn": 46694009,
+      "tempat_tanggal_lahir": "Sukabumi 04 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Bela Feronika",
+      "gender": "P",
+      "nis": 11908087,
+      "nisn": 30085050,
+      "tempat_tanggal_lahir": "Wonogiri 10 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Callula Ambar Tria Manda",
+      "gender": "P",
+      "nis": 11908088,
+      "nisn": 46712031,
+      "tempat_tanggal_lahir": "Sukabumi 24 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Candra Irawan",
+      "gender": "L",
+      "nis": 11908089,
+      "nisn": 46277240,
+      "tempat_tanggal_lahir": "Cianjur 11 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Erista Mutia",
+      "gender": "P",
+      "nis": 11908090,
+      "nisn": 40774518,
+      "tempat_tanggal_lahir": "Sukabumi 22 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hanny Maulina Yusup",
+      "gender": "P",
+      "nis": 11908091,
+      "nisn": 44376816,
+      "tempat_tanggal_lahir": "Sukabumi 09 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hning Aura Istikhori",
+      "gender": "P",
+      "nis": 11908092,
+      "nisn": 43270809,
+      "tempat_tanggal_lahir": "Sukabumi 31 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Iis Nurul Khotimah",
+      "gender": "P",
+      "nis": 11908093,
+      "nisn": 40559263,
+      "tempat_tanggal_lahir": "Jakarta 26 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ilham Abdul Wahab",
+      "gender": "L",
+      "nis": 11908094,
+      "nisn": 20484347,
+      "tempat_tanggal_lahir": "Bandung 08 Juli 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Kasih Ayu Lestari",
+      "gender": "P",
+      "nis": 11908095,
+      "nisn": 44358861,
+      "tempat_tanggal_lahir": "Sukabumi 21 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Kayla Faiza",
+      "gender": "P",
+      "nis": 11908096,
+      "nisn": 47092890,
+      "tempat_tanggal_lahir": "Sukabumi 03 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Maudi Tri Wahyuni",
+      "gender": "P",
+      "nis": 11908097,
+      "nisn": 45512087,
+      "tempat_tanggal_lahir": "Sukabumi 23 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Aditya Firdaus Setiawan",
+      "gender": "L",
+      "nis": 11908098,
+      "nisn": 46572059,
+      "tempat_tanggal_lahir": "Sukabumi 20 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nadya Rahman",
+      "gender": "P",
+      "nis": 11908099,
+      "nisn": 30241760,
+      "tempat_tanggal_lahir": "Sukabumi 20 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Natasya Yusdatillah",
+      "gender": "P",
+      "nis": 11908100,
+      "nisn": 46797564,
+      "tempat_tanggal_lahir": "Sukabumi 01 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nazwa Meisa",
+      "gender": "P",
+      "nis": 11908101,
+      "nisn": 49879000,
+      "tempat_tanggal_lahir": "Sukabumi 23 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Novia Fitriani",
+      "gender": "P",
+      "nis": 11908102,
+      "nisn": 40559286,
+      "tempat_tanggal_lahir": "Sukabumi 06 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "R. Adelia Renggani Julianti",
+      "gender": "P",
+      "nis": 11908104,
+      "nisn": 43367024,
+      "tempat_tanggal_lahir": "Sukabumi 25 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ressi Andriani",
+      "gender": "P",
+      "nis": 11908105,
+      "nisn": 36438014,
+      "tempat_tanggal_lahir": "Sukabumi 18 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Reva Marsha Aulia",
+      "gender": "P",
+      "nis": 11908106,
+      "nisn": 42094353,
+      "tempat_tanggal_lahir": "Sukabumi 02 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Saumi Rizki Fadillah",
+      "gender": "P",
+      "nis": 11908107,
+      "nisn": 38931922,
+      "tempat_tanggal_lahir": "Sukabumi 19 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Masripah",
+      "gender": "P",
+      "nis": 11908108,
+      "nisn": 34710747,
+      "tempat_tanggal_lahir": "Sukabumi 06 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Mayang Sari",
+      "gender": "P",
+      "nis": 11908109,
+      "nisn": 43148826,
+      "tempat_tanggal_lahir": "Sukabumi 28 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Salbiah",
+      "gender": "P",
+      "nis": 11908110,
+      "nisn": 44410742,
+      "tempat_tanggal_lahir": "Sukabumi 24 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sri Mulyati",
+      "gender": "P",
+      "nis": 11908111,
+      "nisn": 37689571,
+      "tempat_tanggal_lahir": "Sukabumi 20 Februari 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Syifa Melanda",
+      "gender": "P",
+      "nis": 11908112,
+      "nisn": 43239611,
+      "tempat_tanggal_lahir": "Sukabumi 13 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tarisa Nur Insani",
+      "gender": "P",
+      "nis": 11908113,
+      "nisn": 48912643,
+      "tempat_tanggal_lahir": "Sukabumi 29 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Viona Aullinissa",
+      "gender": "P",
+      "nis": 11908114,
+      "nisn": 46712019,
+      "tempat_tanggal_lahir": "Sukabumi 27 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Wirda",
+      "gender": "P",
+      "nis": 11908115,
+      "nisn": 48140101,
+      "tempat_tanggal_lahir": "Sukabumi 28 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Agnes Wandiani Markus",
+      "gender": "P",
+      "nis": 11908116,
+      "nisn": 43791171,
+      "tempat_tanggal_lahir": "Sukabumi 25 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amanda Apriliani",
+      "gender": "P",
+      "nis": 11908117,
+      "nisn": 44470006,
+      "tempat_tanggal_lahir": "Sukabumi 19 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amanda Vania Ali Putri",
+      "gender": "P",
+      "nis": 11908118,
+      "nisn": 42793805,
+      "tempat_tanggal_lahir": "Lampung 05 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Azizah Dikra",
+      "gender": "P",
+      "nis": 11908119,
+      "nisn": 30022204,
+      "tempat_tanggal_lahir": "Sukabumi 24 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Bella Agistiani",
+      "gender": "P",
+      "nis": 11908120,
+      "nisn": 37616427,
+      "tempat_tanggal_lahir": "Sukabumi 17 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dede Nuraeni",
+      "gender": "P",
+      "nis": 11908121,
+      "nisn": 42804379,
+      "tempat_tanggal_lahir": "Sukabumi 01 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Diana Maulani",
+      "gender": "P",
+      "nis": 11908122,
+      "nisn": 38703558,
+      "tempat_tanggal_lahir": "Sukabumi 11 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dita Bagaskara",
+      "gender": "P",
+      "nis": 11908123,
+      "nisn": 30065084,
+      "tempat_tanggal_lahir": "Sukabumi 02 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Egi Riyanto",
+      "gender": "L",
+      "nis": 11908124,
+      "nisn": 41345782,
+      "tempat_tanggal_lahir": "Sukabumi 10 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Erlangga Prasetio",
+      "gender": "L",
+      "nis": 11908125,
+      "nisn": 46571756,
+      "tempat_tanggal_lahir": "Sukabumi 20 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Evi Siti Rahmawati",
+      "gender": "P",
+      "nis": 11908126,
+      "nisn": 41988339,
+      "tempat_tanggal_lahir": "Sukabumi 27 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Firani Amanda",
+      "gender": "P",
+      "nis": 11908127,
+      "nisn": 44417067,
+      "tempat_tanggal_lahir": "Sukabumi 11 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fuji Aurilia",
+      "gender": "P",
+      "nis": 11908128,
+      "nisn": 44299468,
+      "tempat_tanggal_lahir": "Sukabumi 28 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ikhsan Andriana",
+      "gender": "L",
+      "nis": 11908129,
+      "nisn": 45726093,
+      "tempat_tanggal_lahir": "Sukabumi 03 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Iput Paujiah Rahmawati",
+      "gender": "P",
+      "nis": 11908130,
+      "nisn": 36444611,
+      "tempat_tanggal_lahir": "Sukabumi 03 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Latifah",
+      "gender": "P",
+      "nis": 11908131,
+      "nisn": 30161843,
+      "tempat_tanggal_lahir": "Sukabumi 06 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Lika Triyani",
+      "gender": "P",
+      "nis": 11908132,
+      "nisn": 31281735,
+      "tempat_tanggal_lahir": "Sukabumi 21 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Lutpika Putri",
+      "gender": "P",
+      "nis": 11908133,
+      "nisn": 36953742,
+      "tempat_tanggal_lahir": "Sukabumi 12 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "M. Agung Nugraha",
+      "gender": "L",
+      "nis": 11908134,
+      "nisn": 37526449,
+      "tempat_tanggal_lahir": "Sukabumi 20 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Najma Nudia",
+      "gender": "P",
+      "nis": 11908135,
+      "nisn": 37499693,
+      "tempat_tanggal_lahir": "Sukabumi 24 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "R. Gina Aulia",
+      "gender": "P",
+      "nis": 11908136,
+      "nisn": 34939336,
+      "tempat_tanggal_lahir": "Sukabumi 06 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rachel Alma Ultsani",
+      "gender": "P",
+      "nis": 11908137,
+      "nisn": 49222994,
+      "tempat_tanggal_lahir": "Sukabumi 18 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rahma Nur Fadila",
+      "gender": "P",
+      "nis": 11908138,
+      "nisn": 44395852,
+      "tempat_tanggal_lahir": "Sukabumi 31 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ratna Amalia Chaerunisa",
+      "gender": "P",
+      "nis": 11908139,
+      "nisn": 42718220,
+      "tempat_tanggal_lahir": "Sukabumi 26 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rena Juliana",
+      "gender": "P",
+      "nis": 11908140,
+      "nisn": 48774987,
+      "tempat_tanggal_lahir": "Sukabumi 16 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Selvia Putri Utami",
+      "gender": "P",
+      "nis": 11908141,
+      "nisn": 43377227,
+      "tempat_tanggal_lahir": "Sukabumi 31 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sinsin Nurhaliza A",
+      "gender": "P",
+      "nis": 11908142,
+      "nisn": 41881288,
+      "tempat_tanggal_lahir": "Sukabumi 06 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sintia Ramadani",
+      "gender": "P",
+      "nis": 11908143,
+      "nisn": 39300991,
+      "tempat_tanggal_lahir": "Sukabumi 07 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Nur Azizah Zahra Tunnissa",
+      "gender": "P",
+      "nis": 11908144,
+      "nisn": 47278949,
+      "tempat_tanggal_lahir": "Sukabumi 03 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Nuraeni",
+      "gender": "P",
+      "nis": 11908145,
+      "nisn": 38098971,
+      "tempat_tanggal_lahir": "Sukabumi 03 Maret 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Zahwa Azzahra",
+      "gender": "P",
+      "nis": 11908146,
+      "nisn": 44633727,
+      "tempat_tanggal_lahir": "Sukabumi 02 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Susan Nurjannah",
+      "gender": "P",
+      "nis": 11908147,
+      "nisn": 39599909,
+      "tempat_tanggal_lahir": "Sukabumi 27 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tarisa Zulyani",
+      "gender": "P",
+      "nis": 11908148,
+      "nisn": 41629160,
+      "tempat_tanggal_lahir": "Sukabumi 24 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Zahra Ainnur Pasya",
+      "gender": "P",
+      "nis": 11908149,
+      "nisn": 40559259,
+      "tempat_tanggal_lahir": "Sukabumi 06 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Zahra Dinda Yuniar",
+      "gender": "P",
+      "nis": 11908150,
+      "nisn": 46759570,
+      "tempat_tanggal_lahir": "Sukabumi 10 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Zulfi Zahra",
+      "gender": "P",
+      "nis": 11908151,
+      "nisn": 38098980,
+      "tempat_tanggal_lahir": "Sukabumi 20 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Abigail Fernanda Putri Ariyanti",
+      "gender": "P",
+      "nis": 11908152,
+      "nisn": 30085051,
+      "tempat_tanggal_lahir": "Sukabumi 11 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Andica Sabrina Maulida",
+      "gender": "P",
+      "nis": 11908153,
+      "nisn": 43741765,
+      "tempat_tanggal_lahir": "Sukabumi 16 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Annisa Ramadhanti Dwi Aulia",
+      "gender": "P",
+      "nis": 11908154,
+      "nisn": 39901489,
+      "tempat_tanggal_lahir": "Sukabumi 06 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ati",
+      "gender": "P",
+      "nis": 11908155,
+      "nisn": 38152146,
+      "tempat_tanggal_lahir": "Sukabumi 16 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Bunga Citra Kemuning",
+      "gender": "P",
+      "nis": 11908156,
+      "nisn": 44876915,
+      "tempat_tanggal_lahir": "Sukabumi 25 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Desti Anggraeni",
+      "gender": "P",
+      "nis": 11908157,
+      "nisn": 30085063,
+      "tempat_tanggal_lahir": "Sukabumi 18 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Desti Yuwita",
+      "gender": "P",
+      "nis": 11908158,
+      "nisn": 39000795,
+      "tempat_tanggal_lahir": "Sukabumi 12 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Devina Agistin",
+      "gender": "P",
+      "nis": 11908159,
+      "nisn": 45051719,
+      "tempat_tanggal_lahir": "Sukabumi 21 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dina Aulia Septiani",
+      "gender": "P",
+      "nis": 11908160,
+      "nisn": 44731749,
+      "tempat_tanggal_lahir": "Sukabumi 11 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dinda Musallamah",
+      "gender": "P",
+      "nis": 11908161,
+      "nisn": 40774505,
+      "tempat_tanggal_lahir": "Sukabumi 13 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Farwa Zulfa Juanda",
+      "gender": "P",
+      "nis": 11908162,
+      "nisn": 46799413,
+      "tempat_tanggal_lahir": "Sukabumi 08 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Feby Putri Pelani",
+      "gender": "P",
+      "nis": 11908163,
+      "nisn": 45581177,
+      "tempat_tanggal_lahir": "Sukabumi 03 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Intan Nuraeni",
+      "gender": "P",
+      "nis": 11908164,
+      "nisn": 59966129,
+      "tempat_tanggal_lahir": "Sukabumi 03 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Irena Sri Rahayu",
+      "gender": "P",
+      "nis": 11908165,
+      "nisn": 41541153,
+      "tempat_tanggal_lahir": "Sukabumi 14 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Kitari Setya Rindani",
+      "gender": "P",
+      "nis": 11908166,
+      "nisn": 46797562,
+      "tempat_tanggal_lahir": "Sukabumi 30 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "M.Syahrul Gustifan",
+      "gender": "L",
+      "nis": 11908167,
+      "nisn": 38879568,
+      "tempat_tanggal_lahir": "Sukabumi 03 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Meiliani Rohman",
+      "gender": "P",
+      "nis": 11908168,
+      "nisn": 38152143,
+      "tempat_tanggal_lahir": "Sukabumi 06 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mia Sutia Sri Ayu",
+      "gender": "P",
+      "nis": 11908169,
+      "nisn": 34528820,
+      "tempat_tanggal_lahir": "Sukabumi 09 Desember 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mitha Latipatul Zahra",
+      "gender": "P",
+      "nis": 11908170,
+      "nisn": 43270808,
+      "tempat_tanggal_lahir": "Sukabumi 08 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochamad Reza Nurfauzi",
+      "gender": "L",
+      "nis": 11908171,
+      "nisn": 46799409,
+      "tempat_tanggal_lahir": "Sukabumi 04 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mohammad Ramdhani",
+      "gender": "L",
+      "nis": 11908172,
+      "nisn": 30142593,
+      "tempat_tanggal_lahir": "Sukabumi 11 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Rizki Ramdani",
+      "gender": "L",
+      "nis": 11908173,
+      "nisn": 36975009,
+      "tempat_tanggal_lahir": "Sukabumi 11 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nadya Amelia Ningsih",
+      "gender": "P",
+      "nis": 11908174,
+      "nisn": 36497127,
+      "tempat_tanggal_lahir": "Sukabumi 25 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Pania Hendrina Wati",
+      "gender": "P",
+      "nis": 11908175,
+      "nisn": 36438006,
+      "tempat_tanggal_lahir": "Sukabumi 09 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rayya Fatimah Zahra",
+      "gender": "P",
+      "nis": 11908177,
+      "nisn": 40774484,
+      "tempat_tanggal_lahir": "Sukabumi 10 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Regina Zahrani Widaryanto",
+      "gender": "P",
+      "nis": 11908178,
+      "nisn": 46060523,
+      "tempat_tanggal_lahir": "Cianjur 08 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Reza Laksana",
+      "gender": "P",
+      "nis": 11908179,
+      "nisn": 55448786,
+      "tempat_tanggal_lahir": "Sukabumi 15 September 2005",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Risa Raisa",
+      "gender": "P",
+      "nis": 11908180,
+      "nisn": 33388533,
+      "tempat_tanggal_lahir": "Sukabumi 21 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Salfa Putri Deliana",
+      "gender": "P",
+      "nis": 11908181,
+      "nisn": 38995811,
+      "tempat_tanggal_lahir": "Sukabumi 14 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Salma Nur Rahmawati",
+      "gender": "P",
+      "nis": 11908182,
+      "nisn": 36975001,
+      "tempat_tanggal_lahir": "Sukabumi 04 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Septia Putri",
+      "gender": "P",
+      "nis": 11908183,
+      "nisn": 34939343,
+      "tempat_tanggal_lahir": "Sukabumi 16 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Shifa Mufidah",
+      "gender": "P",
+      "nis": 11908184,
+      "nisn": 46898950,
+      "tempat_tanggal_lahir": "Sukabumi 25 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Suci Diasfuji",
+      "gender": "P",
+      "nis": 11908185,
+      "nisn": 30418630,
+      "tempat_tanggal_lahir": "Sukabumi 22 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Suci Lestari",
+      "gender": "P",
+      "nis": 11908186,
+      "nisn": 49730588,
+      "tempat_tanggal_lahir": "Sukabumi 05 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Syahla Nailal Haq",
+      "gender": "P",
+      "nis": 11908187,
+      "nisn": 42679798,
+      "tempat_tanggal_lahir": "Sukabumi 24 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Adis Adelia",
+      "gender": "P",
+      "nis": 11908008,
+      "nisn": 48368807,
+      "tempat_tanggal_lahir": "Sukabumi 18 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Alena Azzaria",
+      "gender": "P",
+      "nis": 11908009,
+      "nisn": 44376795,
+      "tempat_tanggal_lahir": "Sukabumi 14 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ana Jainab",
+      "gender": "P",
+      "nis": 11908010,
+      "nisn": 43791150,
+      "tempat_tanggal_lahir": "Sukabumi 22 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aneu Nurul Hikmah",
+      "gender": "P",
+      "nis": 11908011,
+      "nisn": 41447875,
+      "tempat_tanggal_lahir": "Sukabumi 14 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Arin Ahzani",
+      "gender": "P",
+      "nis": 11908012,
+      "nisn": 46596912,
+      "tempat_tanggal_lahir": "Sukabumi 20 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Astria Wardah",
+      "gender": "P",
+      "nis": 11908013,
+      "nisn": 25241625,
+      "tempat_tanggal_lahir": "Sukabumi 30 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dea Nuraeni",
+      "gender": "P",
+      "nis": 11908014,
+      "nisn": 38078838,
+      "tempat_tanggal_lahir": "Sukabumi 29 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dede Anggita Fajrianti",
+      "gender": "P",
+      "nis": 11908015,
+      "nisn": 38052074,
+      "tempat_tanggal_lahir": "Sukabumi 20 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Delya Maryani",
+      "gender": "P",
+      "nis": 11908016,
+      "nisn": 44437807,
+      "tempat_tanggal_lahir": "Sukabumi 28 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dila Adelia Destiani",
+      "gender": "P",
+      "nis": 11908017,
+      "nisn": 30021942,
+      "tempat_tanggal_lahir": "Sukabumi 13 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Firdha Ramadhani",
+      "gender": "P",
+      "nis": 11908018,
+      "nisn": 38010046,
+      "tempat_tanggal_lahir": "Sukabumi 21 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Intan Nivia Putri",
+      "gender": "P",
+      "nis": 11908019,
+      "nisn": 35162818,
+      "tempat_tanggal_lahir": "Sukabumi 01 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Liana Setiawan Agustin",
+      "gender": "P",
+      "nis": 11908020,
+      "nisn": 30021783,
+      "tempat_tanggal_lahir": "Sukabumi 14 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mita Hafitya Azzahra",
+      "gender": "P",
+      "nis": 11908021,
+      "nisn": 42946942,
+      "tempat_tanggal_lahir": "Sukabumi 11 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nazwa Alivia",
+      "gender": "P",
+      "nis": 11908022,
+      "nisn": 38098992,
+      "tempat_tanggal_lahir": "Sukabumi 21 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nazwa Maulida",
+      "gender": "P",
+      "nis": 11908023,
+      "nisn": 40391441,
+      "tempat_tanggal_lahir": "Sukabumi 25 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nur Azizah",
+      "gender": "P",
+      "nis": 11908024,
+      "nisn": 41664284,
+      "tempat_tanggal_lahir": "Sukabumi 01 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Pitriani",
+      "gender": "P",
+      "nis": 11908025,
+      "nisn": 48177006,
+      "tempat_tanggal_lahir": "Sukabumi 09 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Putri Melinda",
+      "gender": "P",
+      "nis": 11908026,
+      "nisn": 49459833,
+      "tempat_tanggal_lahir": "Sukabumi 14 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ratu Nabila Rifani",
+      "gender": "P",
+      "nis": 11908027,
+      "nisn": 46775957,
+      "tempat_tanggal_lahir": "Sukabumi 01 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rega Marliana Nur Mutia",
+      "gender": "P",
+      "nis": 11908028,
+      "nisn": 44378635,
+      "tempat_tanggal_lahir": "Sukabumi 23 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Reisya Andira",
+      "gender": "P",
+      "nis": 11908029,
+      "nisn": 46668082,
+      "tempat_tanggal_lahir": "Sukabumi 18 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rima Nurahma",
+      "gender": "P",
+      "nis": 11908030,
+      "nisn": 39812737,
+      "tempat_tanggal_lahir": "Sukabumi 05 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Salman Munawar Ilham",
+      "gender": "L",
+      "nis": 11908031,
+      "nisn": 46986289,
+      "tempat_tanggal_lahir": "Sukabumi 07 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Santi Citra Resti",
+      "gender": "P",
+      "nis": 11908032,
+      "nisn": 45502359,
+      "tempat_tanggal_lahir": "Sukabumi 01 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Septi Maharani",
+      "gender": "P",
+      "nis": 11908033,
+      "nisn": 48786452,
+      "tempat_tanggal_lahir": "Sukabumi 06 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sera Andini",
+      "gender": "P",
+      "nis": 11908034,
+      "nisn": 39603522,
+      "tempat_tanggal_lahir": "Sukabumi 23 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sherly Nadia Putri",
+      "gender": "P",
+      "nis": 11908035,
+      "nisn": 38273975,
+      "tempat_tanggal_lahir": "Sukabumi 03 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Silva Fauziah",
+      "gender": "P",
+      "nis": 11908036,
+      "nisn": 32960276,
+      "tempat_tanggal_lahir": "Sukabumi 26 Februari 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sindi Awaliah",
+      "gender": "P",
+      "nis": 11908037,
+      "nisn": 34323968,
+      "tempat_tanggal_lahir": "Sukabumi 06 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sintia Pebrianti",
+      "gender": "P",
+      "nis": 11908038,
+      "nisn": 47940739,
+      "tempat_tanggal_lahir": "Sukabumi 17 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Maryani",
+      "gender": "P",
+      "nis": 11908039,
+      "nisn": 38099150,
+      "tempat_tanggal_lahir": "Sukabumi 17 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tiara Santi Dewi",
+      "gender": "P",
+      "nis": 11908040,
+      "nisn": 38132101,
+      "tempat_tanggal_lahir": "Sukabumi 03 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Wanti Aprianti",
+      "gender": "P",
+      "nis": 11908041,
+      "nisn": 38098981,
+      "tempat_tanggal_lahir": "Sukabumi 29 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Widie Indah Mauliasari",
+      "gender": "P",
+      "nis": 11908042,
+      "nisn": 43377336,
+      "tempat_tanggal_lahir": "Sukabumi 28 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Zahra Salsha Fadilla",
+      "gender": "P",
+      "nis": 11908043,
+      "nisn": 44291604,
+      "tempat_tanggal_lahir": "Sukabumi 17 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ajeng Suci Safitri",
+      "gender": "P",
+      "nis": 11908044,
+      "nisn": 43148890,
+      "tempat_tanggal_lahir": "Sukabumi 13 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Al'Lysma Nuraeni",
+      "gender": "P",
+      "nis": 11908045,
+      "nisn": 21205433,
+      "tempat_tanggal_lahir": "Sukabumi 25 Desember 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amelya Nisvi Rivani Putri",
+      "gender": "P",
+      "nis": 11908046,
+      "nisn": 35092863,
+      "tempat_tanggal_lahir": "Sukabumi 10 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Arla Mirayanti",
+      "gender": "P",
+      "nis": 11908047,
+      "nisn": 42679790,
+      "tempat_tanggal_lahir": "Sukabumi 03 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Canda Meiliama",
+      "gender": "P",
+      "nis": 11908048,
+      "nisn": 40774504,
+      "tempat_tanggal_lahir": "Sukabumi 13 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dhea Gautami Putri",
+      "gender": "P",
+      "nis": 11908049,
+      "nisn": 30417723,
+      "tempat_tanggal_lahir": "Sukabumi 14 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dian Ambarsari",
+      "gender": "P",
+      "nis": 11908050,
+      "nisn": 43197247,
+      "tempat_tanggal_lahir": "Sukabumi 05 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dicky Darmawan",
+      "gender": "L",
+      "nis": 11908051,
+      "nisn": 40774494,
+      "tempat_tanggal_lahir": "Sukabumi 10 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Diva Putri Meilani",
+      "gender": "P",
+      "nis": 11908052,
+      "nisn": 33125757,
+      "tempat_tanggal_lahir": "Sukabumi 03 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fina Apriliani",
+      "gender": "P",
+      "nis": 11908053,
+      "nisn": 39450587,
+      "tempat_tanggal_lahir": "Sukabumi 23 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Gina Maria Kurnia",
+      "gender": "P",
+      "nis": 11908054,
+      "nisn": 42391728,
+      "tempat_tanggal_lahir": "Sukabumi 09 Desember 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Icha Puteri Aselia",
+      "gender": "P",
+      "nis": 11908055,
+      "nisn": 48461775,
+      "tempat_tanggal_lahir": "Sukabumi 18 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Imelia Septina",
+      "gender": "P",
+      "nis": 11908056,
+      "nisn": 30108488,
+      "tempat_tanggal_lahir": "Sukabumi 04 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ineukeu Nurfitriyani",
+      "gender": "P",
+      "nis": 11908057,
+      "nisn": 47315993,
+      "tempat_tanggal_lahir": "Sukabumi 16 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Maharani",
+      "gender": "P",
+      "nis": 11908058,
+      "nisn": 41428125,
+      "tempat_tanggal_lahir": "Sukabumi 11 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Malia Tri Melvi Wulandari",
+      "gender": "P",
+      "nis": 11908059,
+      "nisn": 36975003,
+      "tempat_tanggal_lahir": "Sukabumi 30 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Marliana Tri Wulandari",
+      "gender": "P",
+      "nis": 11908060,
+      "nisn": 43869908,
+      "tempat_tanggal_lahir": "Jakarta 14 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mira Septiani",
+      "gender": "P",
+      "nis": 11908061,
+      "nisn": 30106580,
+      "tempat_tanggal_lahir": "Sukabumi  12 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Diki Irawan",
+      "gender": "L",
+      "nis": 11908062,
+      "nisn": 3038520193,
+      "tempat_tanggal_lahir": "Sukabumi 11 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nolis Trisnawati",
+      "gender": "P",
+      "nis": 11908063,
+      "nisn": 30069356,
+      "tempat_tanggal_lahir": "Sukabumi 12 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nonisa Aulia Zahra",
+      "gender": "P",
+      "nis": 11908064,
+      "nisn": 59243878,
+      "tempat_tanggal_lahir": "Sukabumi 11 Desember 2005",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nurul Akmalia Putri",
+      "gender": "P",
+      "nis": 11908065,
+      "nisn": 37911696,
+      "tempat_tanggal_lahir": "Sukabumi 14 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rani Melati",
+      "gender": "P",
+      "nis": 11908066,
+      "nisn": 44239602,
+      "tempat_tanggal_lahir": "Sukabumi 06 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rani Nur Meilani",
+      "gender": "P",
+      "nis": 11908067,
+      "nisn": 46778746,
+      "tempat_tanggal_lahir": "Sukabumi 15 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sarah Rusti Rustianah",
+      "gender": "P",
+      "nis": 11908069,
+      "nisn": 36953735,
+      "tempat_tanggal_lahir": "Sukabumi 18 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Shella Aprilia Putri",
+      "gender": "P",
+      "nis": 11908070,
+      "nisn": 49132906,
+      "tempat_tanggal_lahir": "Sukabumi 13 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Fadillah Rinjani",
+      "gender": "P",
+      "nis": 11908071,
+      "nisn": 38097172,
+      "tempat_tanggal_lahir": "Sukabumi 20 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Mahra Nursani",
+      "gender": "P",
+      "nis": 11908072,
+      "nisn": 47740385,
+      "tempat_tanggal_lahir": "Sukabumi 04 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Nurani",
+      "gender": "P",
+      "nis": 11908073,
+      "nisn": 38714540,
+      "tempat_tanggal_lahir": "Sukabumi 25 Februari 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Nurlaibah",
+      "gender": "P",
+      "nis": 11908074,
+      "nisn": 46674932,
+      "tempat_tanggal_lahir": "Sukabumi 05 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Patimah",
+      "gender": "P",
+      "nis": 11908075,
+      "nisn": 34665753,
+      "tempat_tanggal_lahir": "Sukabumi 07 Februari 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Syahra Aulisia",
+      "gender": "P",
+      "nis": 11908076,
+      "nisn": 44309624,
+      "tempat_tanggal_lahir": "Sukabumi 12 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tiara Damayanti",
+      "gender": "P",
+      "nis": 11908077,
+      "nisn": 43239620,
+      "tempat_tanggal_lahir": "Sukabumi 06 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tunjung Permata Sakti",
+      "gender": "P",
+      "nis": 11908078,
+      "nisn": 43459557,
+      "tempat_tanggal_lahir": "Sukabumi 28 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Widi Juliantika",
+      "gender": "P",
+      "nis": 11908079,
+      "nisn": 35589714,
+      "tempat_tanggal_lahir": "Sukabumi 28 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Agus Juliansyah",
+      "gender": "L",
+      "nis": 11908188,
+      "nisn": 37280038,
+      "tempat_tanggal_lahir": "Sukabumi 07 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amelia Putri Maulida",
+      "gender": "P",
+      "nis": 11908189,
+      "nisn": 46778747,
+      "tempat_tanggal_lahir": "Sukabumi 22 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aprilya Putri",
+      "gender": "P",
+      "nis": 11908190,
+      "nisn": 44395884,
+      "tempat_tanggal_lahir": "Sukabumi 04 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Arinda",
+      "gender": "P",
+      "nis": 11908191,
+      "nisn": 38717911,
+      "tempat_tanggal_lahir": "Sukabumi 07 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Arya Putra Dwitama",
+      "gender": "L",
+      "nis": 11908192,
+      "nisn": 35092856,
+      "tempat_tanggal_lahir": "Sukabumi 07 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Daviana Syaffa Fellina",
+      "gender": "P",
+      "nis": 11908193,
+      "nisn": 29198688,
+      "tempat_tanggal_lahir": "Sukabumi 09 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dela Deliyana",
+      "gender": "P",
+      "nis": 11908194,
+      "nisn": 32864117,
+      "tempat_tanggal_lahir": "Sukabumi 22 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dera Karnasih",
+      "gender": "P",
+      "nis": 11908195,
+      "nisn": 30104278,
+      "tempat_tanggal_lahir": "Sukabumi 09 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Elsya Apriani",
+      "gender": "P",
+      "nis": 11908196,
+      "nisn": 46752479,
+      "tempat_tanggal_lahir": "Sukabumi 14 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Friska Ayunanda",
+      "gender": "P",
+      "nis": 11908197,
+      "nisn": 46088389,
+      "tempat_tanggal_lahir": "Sukabumi 13 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hambali Nurfallah Rasyid",
+      "gender": "L",
+      "nis": 11908198,
+      "nisn": 43197256,
+      "tempat_tanggal_lahir": "Sukabumi 21 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Intan Sri Agustin",
+      "gender": "P",
+      "nis": 11908199,
+      "nisn": 46039313,
+      "tempat_tanggal_lahir": "Sukabumi 23 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Israfilla Khairani",
+      "gender": "P",
+      "nis": 11908200,
+      "nisn": 42057648,
+      "tempat_tanggal_lahir": "Bogor 25 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Dede Permadi",
+      "gender": "L",
+      "nis": 11908201,
+      "nisn": 46717428,
+      "tempat_tanggal_lahir": "Sukabumi 05 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Munadi Alzanah",
+      "gender": "L",
+      "nis": 11908202,
+      "nisn": 46898954,
+      "tempat_tanggal_lahir": "Sukabumi 08 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Najla Sri Rahayu",
+      "gender": "P",
+      "nis": 11908203,
+      "nisn": 46310533,
+      "tempat_tanggal_lahir": "Sukabumi 23 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Neng Fitriani",
+      "gender": "P",
+      "nis": 11908204,
+      "nisn": 38078826,
+      "tempat_tanggal_lahir": "Sukabumi 21 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nur Zalika Izzati",
+      "gender": "P",
+      "nis": 11908205,
+      "nisn": 39967110,
+      "tempat_tanggal_lahir": "Sukabumi 09 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nurul Latipah",
+      "gender": "P",
+      "nis": 11908206,
+      "nisn": 44358948,
+      "tempat_tanggal_lahir": "Sukabumi 25 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Prisa Aprilia Putri",
+      "gender": "P",
+      "nis": 11908207,
+      "nisn": 42398324,
+      "tempat_tanggal_lahir": "Sukabumi 02 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Randi Anugrah",
+      "gender": "L",
+      "nis": 11908208,
+      "nisn": 37948149,
+      "tempat_tanggal_lahir": "Sukabumi 24 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rasta Juniar Indah Permatasari",
+      "gender": "P",
+      "nis": 11908209,
+      "nisn": 43202840,
+      "tempat_tanggal_lahir": "Sukabumi 28 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ratna Rinjani",
+      "gender": "P",
+      "nis": 11908210,
+      "nisn": 46253163,
+      "tempat_tanggal_lahir": "Sukabumi 28 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rayisha",
+      "gender": "P",
+      "nis": 11908211,
+      "nisn": 44943678,
+      "tempat_tanggal_lahir": "Sukabumi 16 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Reysha Dwi Putri Margaretha",
+      "gender": "P",
+      "nis": 11908212,
+      "nisn": 46571295,
+      "tempat_tanggal_lahir": "Sukabumi 11 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Risa Hernawati",
+      "gender": "P",
+      "nis": 11908213,
+      "nisn": 49661619,
+      "tempat_tanggal_lahir": "Sukabumi 24 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Riyad Munawar Barkah",
+      "gender": "L",
+      "nis": 11908214,
+      "nisn": 44201579,
+      "tempat_tanggal_lahir": "Sukabumi 19 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Rizky Aprillianto",
+      "gender": "L",
+      "nis": 11908215,
+      "nisn": 47430352,
+      "tempat_tanggal_lahir": "Sukabumi 02 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sarah Aqilla Fauzia",
+      "gender": "P",
+      "nis": 11908216,
+      "nisn": 41179766,
+      "tempat_tanggal_lahir": "Sukabumi 29 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sefira Fiqri Rahayu",
+      "gender": "P",
+      "nis": 11908217,
+      "nisn": 47883797,
+      "tempat_tanggal_lahir": "Sukabumi 29 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Silva Lizilmi",
+      "gender": "P",
+      "nis": 11908218,
+      "nisn": 35352550,
+      "tempat_tanggal_lahir": "Sukabumi 01 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Widiadari Putri Jayadi",
+      "gender": "P",
+      "nis": 11908221,
+      "nisn": 46612315,
+      "tempat_tanggal_lahir": "Sukabumi 05 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Wulan Nur Azizah Savitri",
+      "gender": "P",
+      "nis": 11908222,
+      "nisn": 46856754,
+      "tempat_tanggal_lahir": "Sukabumi 09 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Wulan Nurmalasari",
+      "gender": "P",
+      "nis": 11908223,
+      "nisn": 46856740,
+      "tempat_tanggal_lahir": "Sukabumi 01 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Agus Nur Hidayat",
+      "gender": "L",
+      "nis": 11908224,
+      "nisn": 36975000,
+      "tempat_tanggal_lahir": "Sukabumi 28 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aidah",
+      "gender": "P",
+      "nis": 11908225,
+      "nisn": 29812292,
+      "tempat_tanggal_lahir": "Sukabumi 02 Desember 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Alda Febriyanti",
+      "gender": "P",
+      "nis": 11908226,
+      "nisn": 3046752733,
+      "tempat_tanggal_lahir": "Sukabumi 14 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ardian Prasetya",
+      "gender": "L",
+      "nis": 11908228,
+      "nisn": 45816735,
+      "tempat_tanggal_lahir": "Sukabumi 20 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Aulia Febiarti",
+      "gender": "P",
+      "nis": 11908229,
+      "nisn": 41250948,
+      "tempat_tanggal_lahir": "Sukabumi 10 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ayu Nur Agustiani",
+      "gender": "P",
+      "nis": 11908230,
+      "nisn": 34939344,
+      "tempat_tanggal_lahir": "Sukabumi 24 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Chika Amaria",
+      "gender": "P",
+      "nis": 11908231,
+      "nisn": 37891492,
+      "tempat_tanggal_lahir": "Sukabumi 17 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dea Rahmawati",
+      "gender": "P",
+      "nis": 11908232,
+      "nisn": 43536868,
+      "tempat_tanggal_lahir": "Sukabumi 26 November 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Devi Septiani",
+      "gender": "P",
+      "nis": 11908233,
+      "nisn": 37074125,
+      "tempat_tanggal_lahir": "Sukabumi 08 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ega Sulistian",
+      "gender": "P",
+      "nis": 11908234,
+      "nisn": 36223273,
+      "tempat_tanggal_lahir": "Sukabumi 17 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Elsa Agustina",
+      "gender": "P",
+      "nis": 11908235,
+      "nisn": 43305084,
+      "tempat_tanggal_lahir": "Suikabum 17 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Erin Dwisvika",
+      "gender": "P",
+      "nis": 11908236,
+      "nisn": 34209084,
+      "tempat_tanggal_lahir": "Bekasi 20 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fitri Agustiani",
+      "gender": "P",
+      "nis": 11908237,
+      "nisn": 36953727,
+      "tempat_tanggal_lahir": "Sukabumi 30 Agustus 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Fitria Putri Felani",
+      "gender": "P",
+      "nis": 11908238,
+      "nisn": 44294420,
+      "tempat_tanggal_lahir": "Sukabumi 01 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Herlinawati",
+      "gender": "P",
+      "nis": 11908239,
+      "nisn": 31900710,
+      "tempat_tanggal_lahir": "Jakarta 28 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Hilman Fauzan Halim",
+      "gender": "L",
+      "nis": 11908240,
+      "nisn": 26727066,
+      "tempat_tanggal_lahir": "Sukabumi 02 Juni 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Irwan Maulana",
+      "gender": "L",
+      "nis": 11908241,
+      "nisn": 34840457,
+      "tempat_tanggal_lahir": "Sukabumi 24 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Jesika Maharani Kuswaya",
+      "gender": "P",
+      "nis": 11908242,
+      "nisn": 45824439,
+      "tempat_tanggal_lahir": "Sukabumi 03 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Jihan Nur Aini",
+      "gender": "P",
+      "nis": 11908243,
+      "nisn": 45481149,
+      "tempat_tanggal_lahir": "Sukabumi 30 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Laura Cindy Albertha",
+      "gender": "P",
+      "nis": 11908244,
+      "nisn": 49361838,
+      "tempat_tanggal_lahir": "Semarang 22 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Lisna Melyana Putri",
+      "gender": "P",
+      "nis": 11908245,
+      "nisn": 46778750,
+      "tempat_tanggal_lahir": "Sukabumi 10 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Maura Aulia Rahman",
+      "gender": "P",
+      "nis": 11908246,
+      "nisn": 46798121,
+      "tempat_tanggal_lahir": "Sukabumi 30 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mia Amelia",
+      "gender": "P",
+      "nis": 11908247,
+      "nisn": 37255962,
+      "tempat_tanggal_lahir": "Cianjur 20 Desember 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Moch. Padli Juliana Kuswandi",
+      "gender": "L",
+      "nis": 11908248,
+      "nisn": 48694755,
+      "tempat_tanggal_lahir": "Sukabumi 02 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mochammad Hidayat",
+      "gender": "L",
+      "nis": 11908249,
+      "nisn": 3029182905,
+      "tempat_tanggal_lahir": "Sukabumi 19 Agustus 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Albi Maulana",
+      "gender": "L",
+      "nis": 11908250,
+      "nisn": 48506462,
+      "tempat_tanggal_lahir": "Sukabumi 14 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Mutia Wulan Dari",
+      "gender": "P",
+      "nis": 11908251,
+      "nisn": 58510170,
+      "tempat_tanggal_lahir": "Bandung 19 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Neska Farulyan",
+      "gender": "P",
+      "nis": 11908252,
+      "nisn": 48968551,
+      "tempat_tanggal_lahir": "Sukabumi 02 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Nur Inayah Aprilliani",
+      "gender": "P",
+      "nis": 11908253,
+      "nisn": 41179750,
+      "tempat_tanggal_lahir": "Sukabumi 29 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Puri Hidayah",
+      "gender": "P",
+      "nis": 11908254,
+      "nisn": 3041522494,
+      "tempat_tanggal_lahir": "Pemalang 01 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sifa Fauziah Alfatah",
+      "gender": "P",
+      "nis": 11908255,
+      "nisn": 30021508,
+      "tempat_tanggal_lahir": "Sukabumi 31 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Nur Anisa",
+      "gender": "P",
+      "nis": 11908256,
+      "nisn": 44332395,
+      "tempat_tanggal_lahir": "Sukabumi 28 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Wisnu Rhamdani",
+      "gender": "L",
+      "nis": 11908258,
+      "nisn": 31584524,
+      "tempat_tanggal_lahir": "Sukabumi 13 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Adelia Salsabilah",
+      "gender": "P",
+      "nis": 11908260,
+      "nisn": 41173855,
+      "tempat_tanggal_lahir": "Sukabumi 11 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Amanda Afrilia Putri",
+      "gender": "P",
+      "nis": 11908261,
+      "nisn": 41646781,
+      "tempat_tanggal_lahir": "Sukabumi 25 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Ananda Kirana Ayu Azzahra",
+      "gender": "P",
+      "nis": 11908262,
+      "nisn": 3038841069,
+      "tempat_tanggal_lahir": "Sukabumi 27 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dea Adinda Maharani",
+      "gender": "P",
+      "nis": 11908263,
+      "nisn": 41173852,
+      "tempat_tanggal_lahir": "Sukabumi 09 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Diffa Wiriya Kusnadi",
+      "gender": "L",
+      "nis": 11908264,
+      "nisn": 3029901259,
+      "tempat_tanggal_lahir": "Sukabumi 04 September 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Dita Putri Apriani",
+      "gender": "P",
+      "nis": 11908266,
+      "nisn": 24376818,
+      "tempat_tanggal_lahir": "Sukabumi 25 April 2002",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Firga Nagita Warda",
+      "gender": "P",
+      "nis": 11908267,
+      "nisn": 44332199,
+      "tempat_tanggal_lahir": "Sukabumi 17 Oktober 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Khanaya Putri Azniansyah",
+      "gender": "P",
+      "nis": 11908268,
+      "nisn": 49921540,
+      "tempat_tanggal_lahir": "Sukabumi 04 September 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Meisya Najalaena",
+      "gender": "P",
+      "nis": 11908269,
+      "nisn": 42679795,
+      "tempat_tanggal_lahir": "Sukabumi 27 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhamad Haris Khawarik",
+      "gender": "L",
+      "nis": 11908270,
+      "nisn": 44731734,
+      "tempat_tanggal_lahir": "Sukabumi 14 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Muhammad Azmi Pradira",
+      "gender": "L",
+      "nis": 11908271,
+      "nisn": 40774524,
+      "tempat_tanggal_lahir": "Sukabumi 16 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Najwa Safitri",
+      "gender": "P",
+      "nis": 11908272,
+      "nisn": 43045994,
+      "tempat_tanggal_lahir": "Sukabumi 02 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Pitriyah",
+      "gender": "P",
+      "nis": 11908274,
+      "nisn": 58651820,
+      "tempat_tanggal_lahir": "Sukabumi 14 November 2005",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Putik Marisa",
+      "gender": "P",
+      "nis": 11908275,
+      "nisn": 44294126,
+      "tempat_tanggal_lahir": "Sukabumi 26 Juli 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Raisa Rindani",
+      "gender": "P",
+      "nis": 11908276,
+      "nisn": 30126740,
+      "tempat_tanggal_lahir": "Sukabumi 29 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Reva Amerta",
+      "gender": "P",
+      "nis": 11908277,
+      "nisn": 45760084,
+      "tempat_tanggal_lahir": "Sukabumi 13 Maret 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Reza Dwi Putra",
+      "gender": "L",
+      "nis": 11908278,
+      "nisn": 44565741,
+      "tempat_tanggal_lahir": "Sukabumi 06 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Risma",
+      "gender": "P",
+      "nis": 11908279,
+      "nisn": 49662900,
+      "tempat_tanggal_lahir": "Sukabumi 20 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Saila Jamil Tajriani",
+      "gender": "P",
+      "nis": 11908280,
+      "nisn": 37951674,
+      "tempat_tanggal_lahir": "Sukabumi 08 Oktober 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Salma Saputri",
+      "gender": "P",
+      "nis": 11908281,
+      "nisn": 30121837,
+      "tempat_tanggal_lahir": "Sukabumi 20 Juni 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sania Febrianti",
+      "gender": "P",
+      "nis": 11908282,
+      "nisn": 46856756,
+      "tempat_tanggal_lahir": "Sukabumi 10 Februari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sheka Zahrania Andra Putri",
+      "gender": "P",
+      "nis": 11908283,
+      "nisn": 30120567,
+      "tempat_tanggal_lahir": "Sukabumi 31 Mei 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Rachmawati",
+      "gender": "P",
+      "nis": 11908284,
+      "nisn": 30161838,
+      "tempat_tanggal_lahir": "Sukabumi 04 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Revani Triani",
+      "gender": "P",
+      "nis": 11908285,
+      "nisn": 42966567,
+      "tempat_tanggal_lahir": "Sukabumi 25 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Revina Triana",
+      "gender": "P",
+      "nis": 11908286,
+      "nisn": 45246469,
+      "tempat_tanggal_lahir": "Sukabumi 25 Januari 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Robaiah Adawiah",
+      "gender": "P",
+      "nis": 11908287,
+      "nisn": 38394295,
+      "tempat_tanggal_lahir": "Sukabumi 01 April 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Salwa Maulida",
+      "gender": "P",
+      "nis": 11908288,
+      "nisn": 46797599,
+      "tempat_tanggal_lahir": "Sukabumi 05 Mei 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Siti Samsiyah",
+      "gender": "P",
+      "nis": 11908289,
+      "nisn": 41250944,
+      "tempat_tanggal_lahir": "Sukabumi 29 Juni 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Sonia Rahma Diana",
+      "gender": "P",
+      "nis": 11908290,
+      "nisn": 32682100,
+      "tempat_tanggal_lahir": "Sukabumi 10 November 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tegar Al Fadilah",
+      "gender": "L",
+      "nis": 11908291,
+      "nisn": 38152149,
+      "tempat_tanggal_lahir": "Sukabumi 16 September 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Tia Safitri",
+      "gender": "P",
+      "nis": 11908292,
+      "nisn": 46712021,
+      "tempat_tanggal_lahir": "Sukabumi 10 April 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Vivi Agustiani Putri",
+      "gender": "P",
+      "nis": 11908293,
+      "nisn": 43270811,
+      "tempat_tanggal_lahir": "Sukabumi 29 Agustus 2004",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Yulan Putri Simarmata",
+      "gender": "P",
+      "nis": 11908294,
+      "nisn": 38491243,
+      "tempat_tanggal_lahir": "Medan 01 Juli 2003",
+      "keterangan": "LULUS"
+    },
+    {
+      "nama": "Yuri Rahmawati",
+      "gender": "P",
+      "nis": 11908295,
+      "nisn": 20687032,
+      "tempat_tanggal_lahir": "Sukabumi 12 November 2002",
+      "keterangan": "LULUS"
+    }
+  ]
+}
