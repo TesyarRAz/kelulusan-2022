@@ -62,7 +62,11 @@
 					{ data: 'nis' },
                     { data: 'nisn' },
                     { data: 'tempat_tanggal_lahir' },
-                    { data: 'keterangan', render: (data, type, row) => `<button class="btn btn-primary" onclick="check('${row.nama}', '${data}')">Cek</button>` },
+                    { data: 'keterangan', render: (data, type, row) => {
+      					let nama = row.nama.replace("'", "")
+      					
+      					return `<button class="btn btn-primary" onclick="check('${nama}', '${data}')">Cek</button>`
+      				}},
 				]
             })
 
